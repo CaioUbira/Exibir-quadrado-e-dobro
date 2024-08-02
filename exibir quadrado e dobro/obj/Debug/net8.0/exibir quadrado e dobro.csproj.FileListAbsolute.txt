@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\exibir quadrado e dobro\exibir quadrado e dobro\bin\Debug\net8.0\exibir quadrado e dobro.exe
+C:\Users\Lucas\source\repos\exibir quadrado e dobro\exibir quadrado e dobro\bin\Debug\net8.0\exibir quadrado e dobro.deps.json
+C:\Users\Lucas\source\repos\exibir quadrado e dobro\exibir quadrado e dobro\bin\Debug\net8.0\exibir quadrado e dobro.runtimeconfig.json
+C:\Users\Lucas\source\repos\exibir quadrado e dobro\exibir quadrado e dobro\bin\Debug\net8.0\exibir quadrado e dobro.dll
+C:\Users\Lucas\source\repos\exibir quadrado e dobro\exibir quadrado e dobro\bin\Debug\net8.0\exibir quadrado e dobro.pdb
+C:\Users\Lucas\source\repos\exibir quadrado e dobro\exibir quadrado e dobro\obj\Debug\net8.0\exibir quadrado e dobro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\exibir quadrado e dobro\exibir quadrado e dobro\obj\Debug\net8.0\exibir quadrado e dobro.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\exibir quadrado e dobro\exibir quadrado e dobro\obj\Debug\net8.0\exibir quadrado e dobro.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\exibir quadrado e dobro\exibir quadrado e dobro\obj\Debug\net8.0\exibir quadrado e dobro.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\exibir quadrado e dobro\exibir quadrado e dobro\obj\Debug\net8.0\exibir quadrado e dobro.dll
+C:\Users\Lucas\source\repos\exibir quadrado e dobro\exibir quadrado e dobro\obj\Debug\net8.0\refint\exibir quadrado e dobro.dll
+C:\Users\Lucas\source\repos\exibir quadrado e dobro\exibir quadrado e dobro\obj\Debug\net8.0\exibir quadrado e dobro.pdb
+C:\Users\Lucas\source\repos\exibir quadrado e dobro\exibir quadrado e dobro\obj\Debug\net8.0\exibir quadrado e dobro.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\exibir quadrado e dobro\exibir quadrado e dobro\obj\Debug\net8.0\ref\exibir quadrado e dobro.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "exibir quadrado e dobro/1.0.0": {
+        "runtime": {
+          "exibir quadrado e dobro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exibir quadrado e dobro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
